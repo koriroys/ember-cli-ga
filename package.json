@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-ga",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Google Analytics universal analytics addon for ember-cli",
   "directories": {
     "doc": "doc",
     "test": "tests"
