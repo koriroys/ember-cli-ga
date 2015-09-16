@@ -25,8 +25,8 @@ module.exports = {
       "  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n" +
       "})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n" +
       "\n" +
-      "ga('create', '" + uaCode + "', 'auto');"
-      // ga('send', 'pageview');
+      "ga('create', '" + uaCode + "', 'auto');\n" +
+      "ga('send', 'pageview');"
   },
 
   contentFor: function(type) {
