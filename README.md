@@ -1,3 +1,7 @@
+NOTE: currently only works in development. Sorry about that. :/
+
+
+
 # ember-cli-ga
 
 ## About
